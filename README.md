@@ -2,7 +2,6 @@
 [![Build Status](https://github.com/vasilionjea/ember-a11y-accordion/workflows/CI/badge.svg)](https://github.com/vasilionjea/ember-a11y-accordion/actions?query=workflow%3ACI)
 
 This Ember addon is based on the [W3C's ARIA](https://www.w3.org/TR/wai-aria-practices/#accordion) best practices for accordions and treats accessibility as a first class citizen. Live demo: https://vasilionjea.github.io/ember-a11y-accordion/
-
 ## Install
 ```
 ember install ember-a11y-accordion
@@ -150,26 +149,10 @@ The `collapsible-list` component additionally accepts the following actions:
   </tbody>
 </table>
 
+## Contributing
 
-## Contribute
 See the [Contributing](CONTRIBUTING.md) guide for details.
 
-### Install
-* `git clone <repository-url>` this repository
-* `cd ember-a11y-accordion`
-* `npm install`
-
-### Running
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Running Tests
-* `npm test` (Runs `ember try:each` to test the addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-### Building
-* `ember build`
-
 ## License
+
 This project is licensed under the [MIT License](LICENSE.md).
